@@ -17,7 +17,7 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 - [BURLAP Tutorial](http://burlap.cs.brown.edu/tutorials/index.html)
 
 ### Book
--  Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [[Book]](http://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+-  Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition Draft, 2017) [[Book]](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
 
 ### Papers
 
