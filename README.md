@@ -1,24 +1,24 @@
 # DLandRL
 Self-Study Guide for Deep Learning and Reinforcement Learning
 
-# Deep Learning 
+## Deep Learning 
 
-MOOC
+### MOOC
 
-Book
+### Book
 
-Papers
+### Papers
 
-# Reinforcement Learning
+## Reinforcement Learning
 
-MOOC
+### MOOC
 
-Book
+### Book
 
-Papers
+### Papers
 
-# Deep Reinforcement Learning
+## Deep Reinforcement Learning
 
-MOOC
+### MOOC
 
-Papers
+### Papers
