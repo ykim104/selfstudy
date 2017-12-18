@@ -27,4 +27,7 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 ### MOOC
 
 ### Papers
+Robotics
 - Hindsight Experience Replay [[HER]](https://arxiv.org/abs/1707.01495)
+
+
