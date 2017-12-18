@@ -1,4 +1,4 @@
-# DLandRL
+# DL-and-RL
 Self-Study Guide for Deep Learning and Reinforcement Learning
 
 ## Deep Learning 
