@@ -55,8 +55,8 @@ Convolutional Neural Network
 ### Papers
 
 Video Games
-Neural Fitted Q [NFQ]()
-Deep Q Network [DWN]()
+-Neural Fitted Q [NFQ]()
+-Deep Q Network [DWN]()
 
 Robotics
 - Hindsight Experience Replay [[HER]](https://arxiv.org/abs/1707.01495)
