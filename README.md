@@ -1,6 +1,6 @@
 # DL-and-RL
 Self-Study Guide for Deep Learning and Reinforcement Learning
-(I am building this guide as I am studying myself)
+(I am building this guide as I study)
 
 ## Deep Learning 
 
