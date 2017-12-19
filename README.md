@@ -57,7 +57,7 @@ Convolutional Neural Network
 Video Games
 - Neural Fitted Q [NFQ]()
 - Deep Q Network [DQN][Nature](https://www.nature.com/articles/nature14236)
-- Variant Q learning [link](https://arxiv.org/abs/1312.5602)
+- Deep Q Learning [link](https://arxiv.org/abs/1312.5602)
 
 Robotics
 - Hindsight Experience Replay [[HER]](https://arxiv.org/abs/1707.01495)
