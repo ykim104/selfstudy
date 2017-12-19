@@ -40,7 +40,7 @@ Convolutional Neural Network
 
 ### Papers
 - Temporal difference learning [Sutton et al]()
-
+- [Q Learning](https://link.springer.com/article/10.1007/BF00992698)
 
 ## Deep Reinforcement Learning
 
