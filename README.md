@@ -43,6 +43,8 @@ Convolutional Neural Network
 - [Q Learning](https://link.springer.com/article/10.1007/BF00992698)
 - Adaptive Heuristic Critic Method (AHC) 
 
+Multi-Agent Reinforcement Learning
+- Survey on MARL [[BBD2008]](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf)
 
 ## Deep Reinforcement Learning
 
@@ -51,7 +53,6 @@ Convolutional Neural Network
 - Deep RL Bootcamp, Peter Abbeel [[link]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - Deep Reinforcement Learning (John Schulman, OpenAI) [Video](https://www.youtube.com/watch?v=PtAIh9KSnjo)
 - Tensorflow Tutorial #16 Reinforcement Learning [link](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)
-
 
 
 ### Papers
@@ -64,4 +65,6 @@ Video Games
 Robotics
 - Hindsight Experience Replay [[HER]](https://arxiv.org/abs/1707.01495)
 
+DRL for Distributed Systems
+- Parrellel Methods for DRL [[DeepMind Paper]](https://arxiv.org/pdf/1507.04296.pdf)
 
