@@ -25,6 +25,10 @@ Convolutional Neural Network
 - Network in Network [paper]()
 - [Inception Network]()
 
+Distributed Network for Deep Learning
+
+- [DistBelief](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+
 
 ## Reinforcement Learning
 
