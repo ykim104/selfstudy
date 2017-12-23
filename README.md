@@ -7,6 +7,7 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 ### MOOC/Websites
 - Courseara Andrew Ng Deep Learning Specialization [link](https://www.coursera.org/specializations/deep-learning)
 - Convolutional Neural Networks for Visual Recognition [CS2321n](http://cs231n.stanford.edu/)
+- Understanding LSTM Neworks [[RNN]](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - Tensorflow Tutorials [Hvass](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 
@@ -28,7 +29,10 @@ Convolutional Neural Network
 Distributed Network for Deep Learning
 
 - [DistBelief](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+- Revisiting distributed synchronous SGD [[paper]](https://arxiv.org/pdf/1604.00981.pdf)
 
+- Understanding deep learning requires re-thinking generalization [[paper]](https://arxiv.org/pdf/1611.03530.pdf)
+- Domain randomization [[paper]](https://arxiv.org/pdf/1703.06907.pdf)
 
 ## Reinforcement Learning
 
@@ -46,6 +50,9 @@ Distributed Network for Deep Learning
 - Temporal difference learning [Sutton et al]()
 - [Q Learning](https://link.springer.com/article/10.1007/BF00992698)
 - Adaptive Heuristic Critic Method (AHC) 
+
+Robogtics/Motor Skills
+- RL of motor skills with policy gradient [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.8735&rep=rep1&type=pdf)
 
 Multi-Agent Reinforcement Learning
 - Survey on MARL [[BBD2008]](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf)
@@ -68,7 +75,12 @@ Video Games
 
 Robotics
 - Hindsight Experience Replay [[HER]](https://arxiv.org/abs/1707.01495)
-
+- Sim-to-real transfer [[paper]](https://arxiv.org/pdf/1710.06537.pdf)
 DRL for Distributed Systems
 - Parrellel Methods for DRL [[DeepMind Paper]](https://arxiv.org/pdf/1507.04296.pdf)
 
+Distributed Systems
+- DDRL through Agreement [[paper]](http://people.csail.mit.edu/lpk/papers/dars08.pdf)
+- [Distributed Deep Q-Learning](https://stanford.edu/~rezab/classes/cme323/S15/projects/deep_Qlearning_report.pdf)
+- Deep multi-user RL [paper](https://arxiv.org/pdf/1704.02613.pdf)
+- Massively parallel methods for DRL [paper](https://arxiv.org/pdf/1507.04296.pdf)
