@@ -16,6 +16,7 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 
 
 ### Papers
+- A few useful things to know about ML [[paper]](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 Convolutional Neural Network
 
