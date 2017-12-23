@@ -61,7 +61,7 @@ Multi-Agent Reinforcement Learning
 
 ### MOOC/Website				
 - Deep Reinforcement Learning [CS294](http://rll.berkeley.edu/deeprlcourse/)
-- Deep RL Bootcamp, Peter Abbeel [[link]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- Deep RL Bootcamp, UCBerkeley & OpenAI [[link]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - Deep Reinforcement Learning (John Schulman, OpenAI) [Video](https://www.youtube.com/watch?v=PtAIh9KSnjo)
 - Tensorflow Tutorial #16 Reinforcement Learning [link](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)
 
