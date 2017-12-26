@@ -17,22 +17,23 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 
 ### Papers
 
-Convolutional Neural Network
+- Understanding deep learning requires rethinking generalization [Zhang et al](https://arxiv.org/pdf/1611.03530.pdf)
+- Attention is all you need [Vaswani et al.](https://arxiv.org/abs/1706.03762)
+- Faster R-CNN [RPN](https://arxiv.org/abs/1506.01497)_
 
-- [LeNet]()
-- [AlexNet]()
-- [VGG]()
+Convolutional Neural Network Architecture
+
+- [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+- [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [VGG](https://arxiv.org/pdf/1409.1556.pdf)
 - [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
-- Network in Network [paper]()
-- [Inception Network]()
+- Network in Network [paper](https://arxiv.org/abs/1312.4400)
+- [Inception Network](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
 Distributed Network for Deep Learning
 
 - [DistBelief](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
 - Revisiting distributed synchronous SGD [[paper]](https://arxiv.org/pdf/1604.00981.pdf)
-
-- Understanding deep learning requires re-thinking generalization [[paper]](https://arxiv.org/pdf/1611.03530.pdf)
-- Domain randomization [[paper]](https://arxiv.org/pdf/1703.06907.pdf)
 
 ## Reinforcement Learning
 
@@ -51,17 +52,20 @@ Distributed Network for Deep Learning
 - [Q Learning](https://link.springer.com/article/10.1007/BF00992698)
 - Adaptive Heuristic Critic Method (AHC) 
 
-Robogtics/Motor Skills
+Robotics/Motor Skills
 - RL of motor skills with policy gradient [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.8735&rep=rep1&type=pdf)
+- Efficient distributed RL through agreement [Varshavskaya et al](http://people.csail.mit.edu/lpk/papers/dars08.pdf)
 
 Multi-Agent Reinforcement Learning
-- Survey on MARL [[BBD2008]](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf)
+- Survey on Multi-agent RL [[Busoniu et al](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf)]
+
+Distributed Systems
 
 ## Deep Reinforcement Learning
 
 ### MOOC/Website				
 - Deep Reinforcement Learning [CS294](http://rll.berkeley.edu/deeprlcourse/)
-- Deep RL Bootcamp, UCBerkeley & OpenAI [[link]](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- Deep RL Bootcamp, UCBerkeley & OpenAI [[link](https://sites.google.com/view/deep-rl-bootcamp/lectures)]
 - Deep Reinforcement Learning (John Schulman, OpenAI) [Video](https://www.youtube.com/watch?v=PtAIh9KSnjo)
 - Tensorflow Tutorial #16 Reinforcement Learning [link](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb)
 
@@ -72,10 +76,15 @@ Video Games
 - Neural Fitted Q [NFQ]()
 - Deep Q Network [DQN][Nature](https://www.nature.com/articles/nature14236)
 - Deep Q Learning [link](https://arxiv.org/abs/1312.5602)
+- Deterministic [[DDPG]()]
+- Universal Value function Approximators [UVFA](http://proceedings.mlr.press/v37/schaul15.pdf)
 
 Robotics
-- Hindsight Experience Replay [[HER]](https://arxiv.org/abs/1707.01495)
-- Sim-to-real transfer [[paper]](https://arxiv.org/pdf/1710.06537.pdf)
+- End-to-end training of deep visuomotor policies [Levin et al.](https://arxiv.org/abs/1504.00702)
+- Hindsight Experience Replay [HER](https://arxiv.org/abs/1707.01495)
+- Sim-to-real transfer for robotic control with dynamics randomization [paper](https://arxiv.org/pdf/1710.06537.pdf)
+- Domain randomization for sim-to-real transfer [Tobin et al](https://arxiv.org/pdf/1703.06907.pdf)
+
 DRL for Distributed Systems
 - Parrellel Methods for DRL [[DeepMind Paper]](https://arxiv.org/pdf/1507.04296.pdf)
 
