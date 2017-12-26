@@ -77,7 +77,7 @@ Video Games
 - Neural Fitted Q Iteration [[NFQ](https://pdfs.semanticscholar.org/2820/01869bd502c7917db8b32b75593addfbbc68.pdf)]
 - Deep Q Network [DQN][[Nature](https://www.nature.com/articles/nature14236)]
 - Deep Q Learning [[link](https://arxiv.org/abs/1312.5602)]
-- Deterministic Deep Policy Gradient [[DDPG](https://arxiv.org/abs/1509.02971)] [[code](https://github.com/stevenpjg/ddpg-aigym)]
+- Deterministic Deep Policy Gradient [[DDPG](https://arxiv.org/abs/1509.02971)] 
 - Universal Value function Approximators [[UVFA](http://proceedings.mlr.press/v37/schaul15.pdf)]
 
 Robotics
@@ -92,3 +92,6 @@ Distributed Systems
 - [Distributed Deep Q-Learning](https://stanford.edu/~rezab/classes/cme323/S15/projects/deep_Qlearning_report.pdf)
 - Deep multi-user RL [[paper](https://arxiv.org/pdf/1704.02613.pdf)]
 - Massively parallel methods for DRL [[paper](https://arxiv.org/pdf/1507.04296.pdf)]
+
+### Code
+- openAI [baselines](https://github.com/openai/baselines/tree/master/baselines)
