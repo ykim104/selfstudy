@@ -94,4 +94,4 @@ Distributed Systems
 - Massively parallel methods for DRL [[paper](https://arxiv.org/pdf/1507.04296.pdf)]
 
 ### Code
-- openAI [baselines](https://github.com/openai/baselines/tree/master/baselines)
+- openAI [baselines](https://github.com/openai/baselines)
