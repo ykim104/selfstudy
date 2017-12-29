@@ -95,3 +95,4 @@ Distributed Systems
 
 ### Code
 - openAI [baselines](https://github.com/openai/baselines)
+- Neural Network Dynamics for Model-based deep reinforcement learning with model-free fine-tuning [code](https://github.com/nagaban2/nn_dynamics)
