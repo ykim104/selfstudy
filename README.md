@@ -85,13 +85,20 @@ Robotics
 - Hindsight Experience Replay [[HER](https://arxiv.org/abs/1707.01495)]
 - Sim-to-real transfer for robotic control with dynamics randomization [[paper](https://arxiv.org/pdf/1710.06537.pdf)]
 - Domain randomization for sim-to-real transfer [[Tobin et al](https://arxiv.org/pdf/1703.06907.pdf)]
+-
 
-Distributed Systems
+Scalable & Distributed Systems
 - Parrellel Methods for DRL [[DeepMind Paper](https://arxiv.org/pdf/1507.04296.pdf)]
 - DDRL through Agreement [[paper](http://people.csail.mit.edu/lpk/papers/dars08.pdf)]
 - [Distributed Deep Q-Learning](https://stanford.edu/~rezab/classes/cme323/S15/projects/deep_Qlearning_report.pdf)
 - Deep multi-user RL [[paper](https://arxiv.org/pdf/1704.02613.pdf)]
 - Massively parallel methods for DRL [[paper](https://arxiv.org/pdf/1507.04296.pdf)]
+- HORDE: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction [[]()]
+
+Model-based deep reinforcement learning
+-
+
+
 
 ### Code
 - openAI [baselines](https://github.com/openai/baselines)
