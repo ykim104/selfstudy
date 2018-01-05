@@ -96,8 +96,11 @@ Scalable & Distributed Systems
 - HORDE: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction [[]()]
 
 Model-based deep reinforcement learning
--
+- Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning
 
+Inverse Reinforcement Learning/Inverse Optimal Control [Nagabandi et al.]
+- Guided Cost Learning: Deep inverse optimal control via policy opimization [Finn et al]
+- Generative Adversarial Imitation Learning [Ho and Ermon]
 
 
 ### Code
