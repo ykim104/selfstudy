@@ -100,7 +100,7 @@ Model-based deep reinforcement learning
 
 Inverse Reinforcement Learning/Inverse Optimal Control [Nagabandi et al.]
 - Guided Cost Learning: Deep inverse optimal control via policy opimization [Finn et al]
-- Generative Adversarial Imitation Learning [Ho and Ermon]
+- Generative Adversarial Imitation Learning [Ho and Ermon](https://arxiv.org/abs/1606.03476) [code](https://github.com/openai/imitation)
 
 
 ### Code
