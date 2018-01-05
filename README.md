@@ -85,7 +85,7 @@ Robotics
 - Hindsight Experience Replay [[HER](https://arxiv.org/abs/1707.01495)]
 - Sim-to-real transfer for robotic control with dynamics randomization [[paper](https://arxiv.org/pdf/1710.06537.pdf)]
 - Domain randomization for sim-to-real transfer [[Tobin et al](https://arxiv.org/pdf/1703.06907.pdf)]
--
+- Vision-based Multi-task Manipulation with Inexpensive Robot [[Rahmatizadeh et al](https://arxiv.org/abs/1707.02920)]
 
 Scalable & Distributed Systems
 - Parrellel Methods for DRL [[DeepMind Paper](https://arxiv.org/pdf/1507.04296.pdf)]
@@ -103,3 +103,5 @@ Model-based deep reinforcement learning
 ### Code
 - openAI [baselines](https://github.com/openai/baselines)
 - Neural Network Dynamics for Model-based deep reinforcement learning with model-free fine-tuning [code](https://github.com/nagaban2/nn_dynamics)
+- End-to-end learning with deep visuomotor policies [code](http://rll.berkeley.edu/gps/)
+- Vision-based multi task manipluation with inexpensive robot [code](https://github.com/rrahmati/roboinstruct-2)
