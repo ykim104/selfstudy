@@ -9,7 +9,8 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 - Convolutional Neural Networks for Visual Recognition [[CS2321n](http://cs231n.stanford.edu/)]
 - Understanding LSTM Neworks [[RNN](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)]
 - Tensorflow Tutorials [[Hvass](https://github.com/Hvass-Labs/TensorFlow-Tutorials)]
-
+- A Tutorial on 3D Deep Learning [[link](http://3ddl.stanford.edu/)]
+- 3D Deep Learning Workshop [[link](http://3ddl.cs.princeton.edu/2016/)]
 
 ### Book
 - Deep Learning, Ian Goodfellow, Yshua Bengio and Aaron Courville [[book](http://www.deeplearningbook.org/)]
@@ -35,6 +36,10 @@ Distributed Network for Deep Learning
 - [DistBelief](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
 - Revisiting distributed synchronous SGD [[paper](https://arxiv.org/pdf/1604.00981.pdf)]
 
+3D Deep Learning
+- Frustum PointNets for 3D Object Detection from RGB-D Data [[link](https://arxiv.org/pdf/1711.08488.pdf)]
+
+
 ## Reinforcement Learning
 
 ### MOOC/Websites
@@ -59,7 +64,8 @@ Robotics/Motor Skills
 Multi-Agent Reinforcement Learning
 - Survey on Multi-agent RL [[Busoniu et al](http://www.dcsc.tudelft.nl/~bdeschutter/pub/rep/07_019.pdf)]
 
-Distributed Systems
+Distributed & Scalable Systems
+- Ray RLlib: A Composable and Scalable Reinforcement Learning Library [[Liang et al](https://arxiv.org/pdf/1712.09381.pdf)]
 
 ## Deep Reinforcement Learning
 
@@ -86,6 +92,13 @@ Robotics
 - Sim-to-real transfer for robotic control with dynamics randomization [[paper](https://arxiv.org/pdf/1710.06537.pdf)]
 - Domain randomization for sim-to-real transfer [[Tobin et al](https://arxiv.org/pdf/1703.06907.pdf)]
 - Vision-based Multi-task Manipulation with Inexpensive Robot [[Rahmatizadeh et al](https://arxiv.org/abs/1707.02920)]
+- DART: Noise Injection for Robust Imitation Learning [[Laskey et al](http://goldberg.berkeley.edu/pubs/DART-CoRL17-cam-ready.pdf)]
+-
+
+Surgical Robotics
+- Multilateral Surgical Pattern Cutting with DRL [[link](http://goldberg.berkeley.edu/pubs/2017-icra-cutting-final.pdf)]
+- (Unsupervised Learning) Transition State Clustering [[link](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)]
+- Learning by Obsercation for Surgical Subtask [[Murali et al](http://goldberg.berkeley.edu/pubs/DVRK-Learning-icra2015.pdf)]
 
 Scalable & Distributed Systems
 - Parrellel Methods for DRL [[DeepMind Paper](https://arxiv.org/pdf/1507.04296.pdf)]
