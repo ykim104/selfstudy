@@ -11,6 +11,8 @@ Self-Study Guide for Deep Learning and Reinforcement Learning
 - Tensorflow Tutorials [[Hvass](https://github.com/Hvass-Labs/TensorFlow-Tutorials)]
 - A Tutorial on 3D Deep Learning [[link](http://3ddl.stanford.edu/)]
 - 3D Deep Learning Workshop [[link](http://3ddl.cs.princeton.edu/2016/)]
+- Machine Learning with Google Cloud Platform [[link]](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)]
+
 
 ### Book
 - Deep Learning, Ian Goodfellow, Yshua Bengio and Aaron Courville [[book](http://www.deeplearningbook.org/)]
