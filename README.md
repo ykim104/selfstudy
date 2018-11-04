@@ -38,6 +38,13 @@ Distributed Network for Deep Learning
 - [DistBelief](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
 - Revisiting distributed synchronous SGD [[paper](https://arxiv.org/pdf/1604.00981.pdf)]
 
+Computer Vision: Object Detection
+- Retinanet
+- YOLO
+- SSD
+- Faster RCNN
+- Mask RCNN
+
 3D Deep Learning
 - Frustum PointNets for 3D Object Detection from RGB-D Data [[link](https://arxiv.org/pdf/1711.08488.pdf)]
 
